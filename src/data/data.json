@@ -1,0 +1,170 @@
+{
+  "Header": {
+    "title": "Welcome to Best Western Logistics ",
+    "paragraph": "Your Trusted Partner in Trucking Services Across the USA and Canada. Experience Excellence, Safety, and Reliability with Us."
+  },
+  "About": {
+    "paragraph": "Best Western Logistics is a premier trucking company dedicated to delivering top-notch transportation solutions across the United States and Canada. With years of experience and a commitment to excellence, we have built a reputation for reliability, safety, and customer satisfaction. Our team is composed of seasoned professionals who prioritise the safe and timely delivery of goods while ensuring the highest standards of service. At Best Western Logistics, we believe in forging strong relationships with our clients based on trust, integrity, and mutual respect.",
+    "Why": [
+      "Reliable Transportation Solutions",
+      "Commitment to Safety",
+      "Experienced Professionals",
+      "Timely Deliveries"
+    ],
+    "Why2": [
+      "Exceptional Customer Service",
+      "Trust and Integrity",
+      "Focus on Quality",
+      "Nationwide Coverage"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Viatris",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Fellowes brands",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "fresh monster",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Amgen",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "EccoFeed",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "The Honey Baked",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+   
+  ],
+  "Services": [
+    {
+      "img": "img/services_images/4.jpg ",
+      "name": "Dedicated Fleet Services",
+      "text": ""
+    },
+    {
+      "img": "img/services_images/6.jpg",
+      "name": "Bulk shipments",
+      "text": ""
+    },
+    {
+      "img": "img/services_images/3.jpg",
+      "name": "Airport pickups/drops",
+      "text": ""
+    },
+    {
+      "img": "img/services_images/1.jpg",
+      "name": "Over the road trucking (LTL/FTL)",
+      "text": ""
+    },
+    {
+      "img": "img/services_images/5.jpg",
+      "name": "Cross-border Transportation",
+      "text": ""
+    },
+    {
+      "img": "img/services_images/2.jpg",
+      "name": "Over the road trucking (LTL/FTL)",
+      "text": ""
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Best Western Logistics consistently delivers on their promises. Their attention to detail and commitment to customer satisfaction make them our preferred transportation partner.",
+      "name": "Mark Johnson, Operations Manager, Viateris Company."
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "We have been working with Best Western Logistics for a long time, and they continue to impress us with their professionalism and reliability. Highly recommended! ",
+      "name": "Sarah Smith, Logistics Coordinator, Fellowes Brand"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "As a logistics manager, I've worked with many trucking companies, but none compare to the level of service provided by Best Western Logistics. Their dedication to safety and efficiency sets them apart from the competition.",
+      "name": "David Brown, Logistics Manager, Fresh Monster"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "The team at Best Western Logistics goes above and beyond to ensure our shipments arrive on time and in pristine condition. They are a valued partner in our supply chain management",
+      "name": "Emily White, Supply Chain Director, AmgeN"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "I can always count on Best Western Logistics to handle our shipping needs with professionalism and care. Their communication throughout the process is exemplary, and their drivers are some of the best in the industry.",
+      "name": "Michael Johnson, Procurement Manager,Ecco Feed"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "Working with Best Western Logistics has streamlined our transportation operations and allowed us to focus on other aspects of our business. Their dedication to customer satisfaction is unparalleled.",
+      "name": "Jennifer Lee, Operations Director, The Honey Baked Ham"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "3213 Strada Rosa Florence, SC 29501 ",
+    "phone": "+1 123 456 1234",
+    "email": "admin@bestwesterblogistics.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
