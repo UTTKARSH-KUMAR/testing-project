@@ -2,9 +2,15 @@ import React from "react";
 import headerimg from '../assets/intro-bg.jpg'
 export const Header = (props) => {
   return (
-    <header  id="header">
-      {/* <img className='headerimage' src={headerimg} alt='header image'/> */}
-      <div className="intro">
+    <header id="header">
+      <img className='headerimage' src={headerimg} alt='header image' />
+      <a
+        href="#contact"
+        className="btn btn-custom btn-lg page-scroll getquotebtn"
+      >
+        Get Quote
+      </a>{" "}
+      {/* <div className="intro">
         <div className="overlay">
           <div className="container">
             <div className="row">
@@ -24,7 +30,7 @@ export const Header = (props) => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </header>
   );
 };

@@ -18,8 +18,8 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
 
-          <a className="navbar-brand page-scroll" href="#page-top" >
-            <span> <img className="icon_styles" src={Cartcon} alt="Home" width="35" height="35" /></span>
+          <a className="navbar-brand page-scroll  nav-img-text" href="#page-top" >
+            <span> <img className="icon_styles nav-logo" src={Cartcon} alt="Home" width="70" height="70" /></span>
             <span> BEST WESTERN LOGISTICS</span>
           </a>{" "}
         </div>
@@ -54,21 +54,12 @@ export const Navigation = (props) => {
                 Testimonials
               </a>
             </li>
-            {/* <li>
-              <a href="#team" className="page-scroll">
-                Team
-              </a>
-            </li> */}
+          
             <li>
               <a href="#contact" className="page-scroll">
               Get Quote
               </a>
             </li>
-            {/* <li>
-              <a href="#contactus" className="page-scroll">
-               Contatc Us
-              </a>
-            </li> */}
           </ul>
         </div>
       </div>
