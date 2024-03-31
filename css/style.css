@@ -277,20 +277,6 @@ a:focus,
   margin-bottom: 60px;
 }
 
-#header {
-  margin-top: 70px;
-}
-
-.getquotebtn {
-  margin-top: 50px;
-}
-
-.headerimage {
-  width: 100% !important;
-  height: 100vh;
-  padding-top: 35px;
-}
-
 header .intro-text {
   padding-top: 55px;
   padding-bottom: 200px;
@@ -302,8 +288,7 @@ header .intro-text {
 }
 
 .headerImage {
-  width: 100%;
-  height: auto;
+  width: 100vw;
 }
 
 /* Features Section */
@@ -735,5 +720,56 @@ label {
 @media (max-width: 768px) {
   #about img {
     margin: 50px 0;
+  }
+}
+
+
+.img-partnerts {
+  padding: 50px;
+}
+
+.nav-img-text {
+  margin-top: -20px;
+}
+
+.headerimage {
+  width: 100% !important;
+  height: 100%;
+}
+
+#header {
+  margin-top: 70px;
+  position: relative;
+}
+
+.getquotebtn {
+  margin-top: 50px;
+  position: absolute;
+  left: 45%;
+  top: 80%
+}
+
+@media (max-width: 768px) {
+
+  .nav-logo {
+    width: 50px !important;
+    height: 50px !important;
+    padding-bottom: 10px
+  }
+
+  .getquotebtn {
+    margin-top: 50px;
+    position: absolute;
+    left: 35%;
+    top: 70%
+  }
+
+  .img-responsive {
+    display: none;
+  }
+
+  .headerimage {
+    height: 40vh;
+    padding-top: 40px;
   }
 }
